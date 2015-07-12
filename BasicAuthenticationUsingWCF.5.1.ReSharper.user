@@ -1,0 +1,63 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:ServiceSecurityContextFactory.cs" caret="312" fromTop="10" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:ResponseMessageFactory.cs" caret="340" fromTop="12" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:RequestInterceptorFactory.cs" caret="239" fromTop="7" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:PrincipalAuthorizationPolicy.cs" caret="408" fromTop="13" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:DecodedCredentialsExtractor.cs" caret="270" fromTop="10" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:Credentials.cs" caret="213" fromTop="7" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationManager.cs" caret="315" fromTop="10" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:AuthorizationPolicyFactory.cs" caret="283" fromTop="9" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:AuthorizationStringExtractor.cs" caret="444" fromTop="14" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:Base64Decoder.cs" caret="290" fromTop="11" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationCredentialsExtractor.cs" caret="213" fromTop="7" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationInterceptor.cs" caret="250" fromTop="8" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:Base64DecoderTest.cs" caret="103" fromTop="3" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:BasicAuthenticationCredentialsExtractorTest.cs" caret="0" fromTop="0" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:BasicAuthenticationManagerTest.cs" caret="0" fromTop="0" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:CredentialsExtractorTest.cs" caret="0" fromTop="0" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:HttpHeaderAuthorizationManagerTest.cs" caret="0" fromTop="0" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:HttpRequestAuthorizationExtractorTest.cs" caret="0" fromTop="0" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:ServiceSecurityContextFactoryTest.cs" caret="140" fromTop="0" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/d:Properties/f:AssemblyInfo.cs" caret="1121" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:AuthorizationStringExtractor.cs" caret="279" fromTop="9" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationCredentialsExtractor.cs" caret="1302" fromTop="37" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationInterceptor.cs" caret="1117" fromTop="37" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationInterceptor.cs" caret="250" fromTop="8" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:Credentials.cs" caret="213" fromTop="7" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:DecodedCredentialsExtractor.cs" caret="267" fromTop="9" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:PrincipalAuthorizationPolicy.cs" caret="408" fromTop="13" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:ResponseMessageFactory.cs" caret="337" fromTop="11" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:ServiceSecurityContextFactory.cs" caret="312" fromTop="10" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:RequestInterceptorFactory.cs" caret="239" fromTop="7" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationManager.cs" caret="315" fromTop="10" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:BasicAuthenticationCredentialsExtractor.cs" caret="213" fromTop="7" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:Base64Decoder.cs" caret="246" fromTop="8" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/f:AuthorizationPolicyFactory.cs" caret="283" fromTop="9" />
+      <File id="4B5128A0-F2A1-429D-9F48-FA2F691D2913/f:Base64DecoderTest.cs" caret="103" fromTop="3" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/d:Properties/f:AssemblyInfo.cs" caret="363" fromTop="8" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/d:Properties/f:AssemblyInfo.cs" caret="559" fromTop="12" />
+      <File id="0E536D3D-820B-468D-9665-ED108D5B8186/d:Properties/f:AssemblyInfo.cs" caret="1183" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.4.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
